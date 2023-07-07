@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221779924622",
+    "project_id": "virtual-egypte",
+    "storage_bucket": "virtual-egypte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221779924622:android:6c2ca535c9a9a03c735bdf",
+        "android_client_info": {
+          "package_name": "com.example.virtual_egypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221779924622-uc5l3u3i8p5iqh2ee0opam0vvi9l07cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxfo2_ysh6PiGra0KfAnNBVvb6M-Bnq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221779924622-uc5l3u3i8p5iqh2ee0opam0vvi9l07cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
